@@ -1,0 +1,24 @@
+package stepdefinitions;
+
+import io.cucumber.java.en.Given;
+
+public class faradaytest {
+    @Given("faraday sitesine gider")
+    public void faraday_sitesine_gider() {
+
+    }
+
+    @Given("URL kontrolu yapar")
+    public void url_kontrolu_yapar() {
+
+    }
+
+    @Given("product ikonuna tiklar")
+    public void product_ikonuna_tiklar() {
+
+    }
+
+    @Given("try faradar edge free ikonuna tiklar")
+    public void try_faradar_edge_free_ikonuna_tiklar() {
+
+}}
